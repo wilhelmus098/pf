@@ -9,15 +9,15 @@ use App\Models\Category\Category;
 class CategoryRepository implements CategoryRepositoryInterface
 {
 
-    public function all($perPage, $page)
+    public function all($perPage)
     {
-        return Category::paginate($perPage, ['*'], 'page', $page);
+        return Category::paginate($perPage);
     }
 
-    // public function store($data)
-    // {
-    //     return Customer::create($data);
-    // }
+    public function store($data)
+    {
+        return Category::create($data);
+    }
 
     // public function find($id)
     // {

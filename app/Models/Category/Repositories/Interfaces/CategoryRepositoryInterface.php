@@ -5,9 +5,9 @@ use App\Models\Category\Category;
 
 Interface CategoryRepositoryInterface {
 
-    public function all($perPage, $page);
+    public function all($perPage);
 
-    // public function store($data);
+    public function store($data);
 
     // public function find($id);
 

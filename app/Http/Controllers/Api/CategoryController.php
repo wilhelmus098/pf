@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use App\Models\Category\Repositories\Interfaces\CategoryRepositoryInterface;
 use App\Models\Account\Repositories\Interfaces\AccountRepositoryInterface;
 use App\Models\Transaction\Repositories\Interfaces\TransactionRepositoryInterface;
+use Illuminate\Http\Response;
 
 class CategoryController extends Controller
 {
@@ -27,10 +28,10 @@ class CategoryController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
-        return "bbb";
-
+        $categories =  $this->categoryRepository->all($request->get('perPage'));
+        return Response($categories);
     }
 
     /**
@@ -46,7 +47,14 @@ class CategoryController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $input = $request->all();
+        $validator = $request->validate([
+            'name' => 'required|string|max:10',
+            'description' => 'required|string|max:100'
+        ]);
+
+        $category = $this->categoryRepository->store($input);
+        return Response($category, 200);
     }
 
     /**
