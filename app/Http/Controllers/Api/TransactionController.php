@@ -45,7 +45,19 @@ class TransactionController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $input = $request->all();
+        $validator = $request->validate([
+            'user_id' => 'required|integer',
+            'account_id' => 'required|integer',
+            'category_id' => 'required|integer',
+            'type' => 'required|string|max:3',
+            'date' => 'required|date',
+            'note' => 'string|max:50',
+            'amount' => 'required|numeric|min:0.1'
+        ]);
+
+        $transaction = $this->transactionRepository->store($input);
+        return Response($transaction, 200);
     }
 
     /**
