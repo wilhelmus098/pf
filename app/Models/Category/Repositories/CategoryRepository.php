@@ -19,25 +19,24 @@ class CategoryRepository implements CategoryRepositoryInterface
         return Category::create($data);
     }
 
-    // public function find($id)
-    // {
-    //     return Customer::find($id);
-    // }
+    public function find($id)
+    {
+        return Category::find($id);
+    }
 
-    // public function update($data, $id)
-    // {
-    //     $customer = Customer::where('id', $id)->first();
-    //     $customer->country_id = $data['country'];
-    //     $customer->name = $data['name'];
-    //     $customer->dob = $data['dob'];
-    //     $customer->phone = $data['phone'];
-    //     $customer->email = $data['email'];
-    //     $customer->save();
-    // }
+    public function update($data, $id)
+    {
+        $category = Category::where('id', $id)->first();
+        $category->name = $data['name'];
+        $category->description = $data['description'];
+        $category->save();
+        return $category;
+    }
 
-    // public function destroy($id)
-    // {
-    //     $customer = Customer::find($id);
-    //     $customer->delete();
-    // }
+    public function destroy($id)
+    {
+        $category = Category::find($id);
+        $category->delete();
+        return $category;
+    }
 }

@@ -9,9 +9,9 @@ Interface CategoryRepositoryInterface {
 
     public function store($data);
 
-    // public function find($id);
+    public function find($id);
 
-    // public function update($data, $id);
+    public function update($data, $id);
 
-    // public function destroy($id);
+    public function destroy($id);
 }

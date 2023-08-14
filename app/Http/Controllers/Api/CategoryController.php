@@ -28,9 +28,9 @@ class CategoryController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index(Request $request)
+    public function index(Request $request, $id = null)
     {
-        $categories =  $this->categoryRepository->all($request->get('perPage'));
+        $categories = $this->categoryRepository->all($request->get('perPage'));
         return Response($categories);
     }
 
@@ -62,7 +62,8 @@ class CategoryController extends Controller
      */
     public function show(string $id)
     {
-        //
+        $categories = $this->categoryRepository->find($id);
+        return Response($categories);
     }
 
     /**
@@ -78,7 +79,14 @@ class CategoryController extends Controller
      */
     public function update(Request $request, string $id)
     {
-        //
+        $input = $request->all();
+        $validator = $request->validate([
+            'name' => 'required|string|max:10',
+            'description' => 'required|string|max:100'
+        ]);
+
+        $category = $this->categoryRepository->update($input, $id);
+        return Response($category, 200);
     }
 
     /**
@@ -86,6 +94,7 @@ class CategoryController extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        $category = $this->categoryRepository->destroy($id);
+        return Response($category, 200);
     }
 }
