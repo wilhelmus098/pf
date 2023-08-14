@@ -31,9 +31,10 @@ class AccountController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
-        return "aaa";
+        $accounts = $this->accountRepository->all($request->get('perPage'));
+        return Response($accounts);
     }
 
     /**
@@ -49,7 +50,14 @@ class AccountController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $input = $request->all();
+        $validator = $request->validate([
+            'name' => 'required|string|max:10',
+            'description' => 'required|string|max:100'
+        ]);
+
+        $account = $this->accountRepository->store($input);
+        return Response($account, 200);
     }
 
     /**
@@ -57,7 +65,8 @@ class AccountController extends Controller
      */
     public function show(string $id)
     {
-        //
+        $account = $this->accountRepository->find($id);
+        return Response($account);
     }
 
     /**
@@ -73,7 +82,14 @@ class AccountController extends Controller
      */
     public function update(Request $request, string $id)
     {
-        //
+        $input = $request->all();
+        $validator = $request->validate([
+            'name' => 'required|string|max:10',
+            'description' => 'required|string|max:100'
+        ]);
+
+        $account = $this->accountRepository->update($input, $id);
+        return Response($account, 200);
     }
 
     /**
@@ -81,6 +97,7 @@ class AccountController extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        $account = $this->accountRepository->destroy($id);
+        return Response($account, 200);
     }
 }

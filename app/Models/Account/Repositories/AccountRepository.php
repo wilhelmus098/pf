@@ -8,35 +8,34 @@ use App\Models\Account\Account;
 class AccountRepository implements AccountRepositoryInterface
 {
 
-    public function all($perPage, $page)
+    public function all($perPage)
     {
-        return Account::paginate($perPage, ['*'], 'page', $page);
+        return Account::paginate($perPage);
     }
 
-    // public function store($data)
-    // {
-    //     return Customer::create($data);
-    // }
+    public function store($data)
+    {
+        return Account::create($data);
+    }
 
-    // public function find($id)
-    // {
-    //     return Customer::find($id);
-    // }
+    public function find($id)
+    {
+        return Account::find($id);
+    }
 
-    // public function update($data, $id)
-    // {
-    //     $customer = Customer::where('id', $id)->first();
-    //     $customer->country_id = $data['country'];
-    //     $customer->name = $data['name'];
-    //     $customer->dob = $data['dob'];
-    //     $customer->phone = $data['phone'];
-    //     $customer->email = $data['email'];
-    //     $customer->save();
-    // }
+    public function update($data, $id)
+    {
+        $account = Account::where('id', $id)->first();
+        $account->name = $data['name'];
+        $account->description = $data['description'];
+        $account->save();
+        return $account;
+    }
 
-    // public function destroy($id)
-    // {
-    //     $customer = Customer::find($id);
-    //     $customer->delete();
-    // }
+    public function destroy($id)
+    {
+        $account = Account::find($id);
+        $account->delete();
+        return $account;
+    }
 }
