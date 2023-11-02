@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T04:22:50.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="uTVLiH4CyJCEIxOjdeWQ" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-02T04:27:19.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="D0j4nxMQVPZvdWVOrVTd" version="22.0.8" type="github" pages="4">
   <diagram name="Login" id="3Osj_PpEpOVRLvcxN6Dh">
     <mxGraphModel dx="880" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -203,6 +203,45 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q1mJhXBMwVM2F4Pv9Z2n-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q1mJhXBMwVM2F4Pv9Z2n-2" value="View List DPL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1mJhXBMwVM2F4Pv9Z2n-3" value="Click on the DPL number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1mJhXBMwVM2F4Pv9Z2n-4" value="Show Detail DPL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1mJhXBMwVM2F4Pv9Z2n-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1mJhXBMwVM2F4Pv9Z2n-1" target="q1mJhXBMwVM2F4Pv9Z2n-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="sourcePoint" />
+            <mxPoint x="430" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1mJhXBMwVM2F4Pv9Z2n-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1mJhXBMwVM2F4Pv9Z2n-2" target="q1mJhXBMwVM2F4Pv9Z2n-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1mJhXBMwVM2F4Pv9Z2n-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1mJhXBMwVM2F4Pv9Z2n-3" target="q1mJhXBMwVM2F4Pv9Z2n-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="450" as="sourcePoint" />
+            <mxPoint x="480" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1mJhXBMwVM2F4Pv9Z2n-9" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q1mJhXBMwVM2F4Pv9Z2n-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1mJhXBMwVM2F4Pv9Z2n-4" target="q1mJhXBMwVM2F4Pv9Z2n-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="490" as="sourcePoint" />
+            <mxPoint x="480" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
