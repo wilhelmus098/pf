@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T09:23:01.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0vlJ6ALw81c8ohr1DEmd" version="22.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-11T09:24:31.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pho1Kvv3JOPdfB_Uv0Ph" version="22.1.7" type="github" pages="3">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1956" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -510,12 +510,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="560-oT-sGCvG6mUICXJC" name="SOP PPIC - WO">
-    <mxGraphModel dx="1318" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-1" value="R&amp;amp;D" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="200" height="440" as="geometry" />
+          <mxGeometry x="60" y="60" width="200" height="440" as="geometry" />
         </mxCell>
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-4" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="o9DA-GKNxIGRnHmDMfMf-1">
           <mxGeometry x="40" y="50" width="120" height="80" as="geometry" />
@@ -533,7 +533,7 @@
           <mxGeometry x="40" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-2" value="PPIC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="200" height="440" as="geometry" />
+          <mxGeometry x="260" y="60" width="200" height="440" as="geometry" />
         </mxCell>
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-7" value="MPS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="o9DA-GKNxIGRnHmDMfMf-2">
           <mxGeometry x="40" y="50" width="120" height="80" as="geometry" />
@@ -557,7 +557,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-3" value="Produksi" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="200" height="440" as="geometry" />
+          <mxGeometry x="460" y="60" width="200" height="440" as="geometry" />
         </mxCell>
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-15" value="WO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="o9DA-GKNxIGRnHmDMfMf-3">
           <mxGeometry x="40" y="50" width="120" height="80" as="geometry" />
@@ -573,23 +573,23 @@
         </mxCell>
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9DA-GKNxIGRnHmDMfMf-5" target="o9DA-GKNxIGRnHmDMfMf-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="240" as="sourcePoint" />
-            <mxPoint x="930" y="190" as="targetPoint" />
+            <mxPoint x="780" y="220" as="sourcePoint" />
+            <mxPoint x="830" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9DA-GKNxIGRnHmDMfMf-11" target="o9DA-GKNxIGRnHmDMfMf-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="380" as="sourcePoint" />
-            <mxPoint x="1000" y="330" as="targetPoint" />
+            <mxPoint x="850" y="360" as="sourcePoint" />
+            <mxPoint x="900" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9DA-GKNxIGRnHmDMfMf-11" target="o9DA-GKNxIGRnHmDMfMf-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="390" as="sourcePoint" />
-            <mxPoint x="890" y="340" as="targetPoint" />
+            <mxPoint x="740" y="370" as="sourcePoint" />
+            <mxPoint x="790" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="440" />
-              <mxPoint x="570" y="170" />
+              <mxPoint x="470" y="420" />
+              <mxPoint x="470" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
