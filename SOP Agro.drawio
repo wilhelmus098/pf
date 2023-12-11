@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T09:01:13.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UOLqq4DON_9D1_o9K0O-" version="22.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-11T09:02:40.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uybyBTqLixYVybsMfvd1" version="22.1.7" type="github" pages="3">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1179" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1400" math="0" shadow="0">
       <root>
@@ -538,7 +538,7 @@
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-7" value="MPS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="o9DA-GKNxIGRnHmDMfMf-2">
           <mxGeometry x="40" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o9DA-GKNxIGRnHmDMfMf-8" value="Membuat WO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o9DA-GKNxIGRnHmDMfMf-2">
+        <mxCell id="o9DA-GKNxIGRnHmDMfMf-8" value="Membuat Work Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o9DA-GKNxIGRnHmDMfMf-2">
           <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9DA-GKNxIGRnHmDMfMf-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.497;exitY=0.879;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="o9DA-GKNxIGRnHmDMfMf-2" source="o9DA-GKNxIGRnHmDMfMf-7" target="o9DA-GKNxIGRnHmDMfMf-8">
