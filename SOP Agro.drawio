@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T08:52:23.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="19DTnD5z_jF6n5YnII7L" version="22.1.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-13T09:02:01.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GNHw9l4-A1aeqYyUfDOd" version="22.1.7" type="github" pages="10">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1956" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -958,7 +958,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hPqkKly9qpjUphUXGwDM-1" value="Produksi" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="90" width="200" height="1250" as="geometry" />
+          <mxGeometry x="620" y="90" width="200" height="750" as="geometry" />
         </mxCell>
         <mxCell id="KL2gXZUXWFq5MeSTrd00-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hPqkKly9qpjUphUXGwDM-1" source="hPqkKly9qpjUphUXGwDM-3" target="KL2gXZUXWFq5MeSTrd00-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -985,7 +985,7 @@
           <mxGeometry x="40" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KL2gXZUXWFq5MeSTrd00-12" value="Warehouse" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="90" width="350" height="1250" as="geometry" />
+          <mxGeometry x="820" y="90" width="350" height="750" as="geometry" />
         </mxCell>
         <mxCell id="KL2gXZUXWFq5MeSTrd00-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.499;exitY=0.854;exitDx=0;exitDy=0;exitPerimeter=0;" parent="KL2gXZUXWFq5MeSTrd00-12" source="KL2gXZUXWFq5MeSTrd00-13" target="KL2gXZUXWFq5MeSTrd00-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1058,7 +1058,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KL2gXZUXWFq5MeSTrd00-28" value="User" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="90" width="200" height="1250" as="geometry" />
+          <mxGeometry x="1170" y="90" width="200" height="750" as="geometry" />
         </mxCell>
         <mxCell id="0Sp-3DDnAPzhosBizE4G-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KL2gXZUXWFq5MeSTrd00-28" source="0Sp-3DDnAPzhosBizE4G-2" target="0Sp-3DDnAPzhosBizE4G-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
