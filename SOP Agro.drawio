@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T08:11:44.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DPnxGklILuhrl6Dy4EQe" version="22.1.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-13T08:26:34.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wmB0j_QW-eLPr6KJiO88" version="22.1.7" type="github" pages="11">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1956" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1020,6 +1020,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VpKeEDR84x5y_JhmAC6C-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KL2gXZUXWFq5MeSTrd00-12" source="KL2gXZUXWFq5MeSTrd00-23" target="VpKeEDR84x5y_JhmAC6C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KL2gXZUXWFq5MeSTrd00-23" value="Pemilihan cost center" style="rounded=0;whiteSpace=wrap;html=1;" parent="KL2gXZUXWFq5MeSTrd00-12" vertex="1">
           <mxGeometry x="210" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1037,6 +1040,9 @@
         </mxCell>
         <mxCell id="beHPhapLDGy5DoCUZ_4E-6" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="KL2gXZUXWFq5MeSTrd00-12" vertex="1">
           <mxGeometry x="225" y="420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VpKeEDR84x5y_JhmAC6C-1" value="Pengiriman material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KL2gXZUXWFq5MeSTrd00-12">
+          <mxGeometry x="210" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KL2gXZUXWFq5MeSTrd00-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KL2gXZUXWFq5MeSTrd00-7" target="KL2gXZUXWFq5MeSTrd00-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1081,8 +1087,15 @@
         <mxCell id="beHPhapLDGy5DoCUZ_4E-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0Sp-3DDnAPzhosBizE4G-4" target="KL2gXZUXWFq5MeSTrd00-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="beHPhapLDGy5DoCUZ_4E-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KL2gXZUXWFq5MeSTrd00-23" target="beHPhapLDGy5DoCUZ_4E-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VpKeEDR84x5y_JhmAC6C-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VpKeEDR84x5y_JhmAC6C-1" target="beHPhapLDGy5DoCUZ_4E-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="900" as="sourcePoint" />
+            <mxPoint x="1290" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="740" />
+              <mxPoint x="1190" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
