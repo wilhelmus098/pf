@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T09:12:02.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iFpUS9DShSI8ySPl5KpE" version="22.1.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-13T09:17:06.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RSGt00qHQePFh_hW-JoU" version="22.1.7" type="github" pages="10">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1956" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1135,16 +1135,16 @@
         <mxCell id="4qfbec7B8pyoUHAzWUZk-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="4qfbec7B8pyoUHAzWUZk-1" source="4qfbec7B8pyoUHAzWUZk-36" target="4qfbec7B8pyoUHAzWUZk-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4qfbec7B8pyoUHAzWUZk-36" value="Membuat invoice transfer" style="rounded=0;whiteSpace=wrap;html=1;" parent="4qfbec7B8pyoUHAzWUZk-1" vertex="1">
+        <mxCell id="4qfbec7B8pyoUHAzWUZk-36" value="Membuat inventory transfer" style="rounded=0;whiteSpace=wrap;html=1;" parent="4qfbec7B8pyoUHAzWUZk-1" vertex="1">
           <mxGeometry x="40" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4qfbec7B8pyoUHAzWUZk-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.498;exitY=0.847;exitDx=0;exitDy=0;exitPerimeter=0;" parent="4qfbec7B8pyoUHAzWUZk-1" source="4qfbec7B8pyoUHAzWUZk-40" target="4qfbec7B8pyoUHAzWUZk-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4qfbec7B8pyoUHAzWUZk-40" value="Invoice transfer" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="4qfbec7B8pyoUHAzWUZk-1" vertex="1">
+        <mxCell id="4qfbec7B8pyoUHAzWUZk-40" value="Inventory transfer" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="4qfbec7B8pyoUHAzWUZk-1" vertex="1">
           <mxGeometry x="40" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4qfbec7B8pyoUHAzWUZk-44" value="Kirim produk dan invoice transfer" style="rounded=0;whiteSpace=wrap;html=1;" parent="4qfbec7B8pyoUHAzWUZk-1" vertex="1">
+        <mxCell id="4qfbec7B8pyoUHAzWUZk-44" value="Kirim produk dan inventory transfer" style="rounded=0;whiteSpace=wrap;html=1;" parent="4qfbec7B8pyoUHAzWUZk-1" vertex="1">
           <mxGeometry x="40" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4qfbec7B8pyoUHAzWUZk-5" value="QC" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1938,7 +1938,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wsYWz2y_iBpgxX-lWo9L" name="SOP Warehouse (Retur FG)">
-    <mxGraphModel dx="1400" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2100" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2173,7 +2173,7 @@
         <mxCell id="WoxtpT2C4Fw6UwG617cM-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WoxtpT2C4Fw6UwG617cM-49" source="WoxtpT2C4Fw6UwG617cM-61" target="WoxtpT2C4Fw6UwG617cM-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WoxtpT2C4Fw6UwG617cM-61" value="Membuat invoice transfer ke gudang barang jadi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WoxtpT2C4Fw6UwG617cM-49">
+        <mxCell id="WoxtpT2C4Fw6UwG617cM-61" value="Membuat inventory transfer ke gudang barang jadi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WoxtpT2C4Fw6UwG617cM-49">
           <mxGeometry x="40" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WoxtpT2C4Fw6UwG617cM-63" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WoxtpT2C4Fw6UwG617cM-49">
@@ -2182,7 +2182,7 @@
         <mxCell id="WoxtpT2C4Fw6UwG617cM-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.495;exitY=0.845;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WoxtpT2C4Fw6UwG617cM-49" source="WoxtpT2C4Fw6UwG617cM-64" target="WoxtpT2C4Fw6UwG617cM-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WoxtpT2C4Fw6UwG617cM-64" value="Invoice transfer ke gudang barang jadi" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WoxtpT2C4Fw6UwG617cM-49">
+        <mxCell id="WoxtpT2C4Fw6UwG617cM-64" value="Inventory transfer ke gudang barang jadi" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WoxtpT2C4Fw6UwG617cM-49">
           <mxGeometry x="40" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WoxtpT2C4Fw6UwG617cM-66" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WoxtpT2C4Fw6UwG617cM-49">
