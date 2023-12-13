@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T02:57:24.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EIRMiErn8dbjh687Pg8w" version="22.1.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-13T03:02:14.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5xjR_f6urHCbKrrwFr30" version="22.1.7" type="github" pages="9">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1956" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1395,10 +1395,58 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1X6UcMKZTCK4z7Ek2md4" name="SOP Warehouse - Pengiriman FG">
-    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2100" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g1sopnxKt8Sndq2qKNky-1" value="Marketing" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="200" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g1sopnxKt8Sndq2qKNky-1" source="g1sopnxKt8Sndq2qKNky-2" target="g1sopnxKt8Sndq2qKNky-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="g1sopnxKt8Sndq2qKNky-1">
+          <mxGeometry x="40" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g1sopnxKt8Sndq2qKNky-1" source="g1sopnxKt8Sndq2qKNky-3" target="g1sopnxKt8Sndq2qKNky-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-3" value="Terima PO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g1sopnxKt8Sndq2qKNky-1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-4" value="SO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="g1sopnxKt8Sndq2qKNky-1">
+          <mxGeometry x="40" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-7" value="Quality" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="200" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-8" value="WH" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="200" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-9" value="Logistic" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="80" width="200" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.496;exitY=0.862;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="g1sopnxKt8Sndq2qKNky-9" source="g1sopnxKt8Sndq2qKNky-10" target="g1sopnxKt8Sndq2qKNky-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-10" value="SO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="g1sopnxKt8Sndq2qKNky-9">
+          <mxGeometry x="40" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g1sopnxKt8Sndq2qKNky-9" source="g1sopnxKt8Sndq2qKNky-11" target="g1sopnxKt8Sndq2qKNky-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-11" value="Membuat SPK sesuai jadwal kirim di SO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g1sopnxKt8Sndq2qKNky-9">
+          <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-14" value="SPK" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="g1sopnxKt8Sndq2qKNky-9">
+          <mxGeometry x="40" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g1sopnxKt8Sndq2qKNky-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1sopnxKt8Sndq2qKNky-4" target="g1sopnxKt8Sndq2qKNky-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="480" as="sourcePoint" />
+            <mxPoint x="480" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
