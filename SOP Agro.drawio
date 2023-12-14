@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T09:33:05.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Lx8AgWNrz8XKMMT9VaJB" version="22.1.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:34:20.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JR7wsNdC0b3c4ZG9v-bD" version="22.1.8" type="github" pages="11">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1956" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1584,7 +1584,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1X6UcMKZTCK4z7Ek2md4" name="SOP Warehouse - Transfer Produksi ke WH (Incoming FG)">
-    <mxGraphModel dx="1956" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2100" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1650,10 +1650,10 @@
         <mxCell id="vEXpuTY6VIkGQTDKiAgV-20" value="Tetap di gudang FG" style="rounded=0;whiteSpace=wrap;html=1;" parent="vEXpuTY6VIkGQTDKiAgV-7" vertex="1">
           <mxGeometry x="76.25" y="249" width="112.5" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="0WWaq84T5QR6x0Z76hLy-1" value="Inventory transfer ke Gudang FG" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="vEXpuTY6VIkGQTDKiAgV-7">
+        <mxCell id="0WWaq84T5QR6x0Z76hLy-1" value="Inventory transfer ke Gudang FG" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="vEXpuTY6VIkGQTDKiAgV-7" vertex="1">
           <mxGeometry x="85" y="339" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0WWaq84T5QR6x0Z76hLy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.556;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vEXpuTY6VIkGQTDKiAgV-7" source="0WWaq84T5QR6x0Z76hLy-1" target="vEXpuTY6VIkGQTDKiAgV-18">
+        <mxCell id="0WWaq84T5QR6x0Z76hLy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.556;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" parent="vEXpuTY6VIkGQTDKiAgV-7" source="0WWaq84T5QR6x0Z76hLy-1" target="vEXpuTY6VIkGQTDKiAgV-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="135" y="409" />
