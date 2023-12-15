@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T06:25:23.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vl7MqrjGYmG54gAUneWc" version="22.1.9" type="github" pages="46">
+<mxfile host="app.diagrams.net" modified="2023-12-15T06:27:25.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1Crngy6ukPkBu5XZrpvl" version="22.1.9" type="github" pages="46">
   <diagram name="SOP Jurnal Transaksi Utama" id="u_JC-0qjYDzJXMqy9y9q">
     <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
           <mxGeometry x="205" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BjaqA_RKlqx81xHsZue4-4" value="Staff AR mendapat info nomor surat jalan &lt;br&gt;Tidak perlu tanda tangan distributor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="340" y="300" width="240" height="40" as="geometry" />
+          <mxGeometry x="340" y="260" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BjaqA_RKlqx81xHsZue4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BjaqA_RKlqx81xHsZue4-11" target="BjaqA_RKlqx81xHsZue4-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -216,16 +216,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BjaqA_RKlqx81xHsZue4-15" value="Kirim Sales Invoice Lengkap" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYTcv8Ujc8Y89nU0q1ml-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fYTcv8Ujc8Y89nU0q1ml-1" target="fYTcv8Ujc8Y89nU0q1ml-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYTcv8Ujc8Y89nU0q1ml-1" value="Pembayaran" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYTcv8Ujc8Y89nU0q1ml-3" value="SOP Pembayaran / Penerimaan" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYTcv8Ujc8Y89nU0q1ml-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fYTcv8Ujc8Y89nU0q1ml-3" target="z82mxXjtLIw5BkQ50hQA-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -237,7 +237,7 @@
           <mxGeometry x="205" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z82mxXjtLIw5BkQ50hQA-2" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="950" width="120" height="80" as="geometry" />
+          <mxGeometry x="205" y="910" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
