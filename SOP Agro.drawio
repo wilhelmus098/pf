@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T09:24:30.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aioZl93536FVsalsVsGJ" version="22.1.9" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-12-15T09:26:16.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ckj5X_G0VViAMQEkE0ee" version="22.1.9" type="github" pages="14">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -2949,10 +2949,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b7ig-_3uhCU3gg0D67rk-3" value="Proses pembayaran" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="u0Ot9i-omgIYrHehw8vl-64">
-          <mxGeometry x="40" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b7ig-_3uhCU3gg0D67rk-5" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="u0Ot9i-omgIYrHehw8vl-64">
-          <mxGeometry x="40" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b7ig-_3uhCU3gg0D67rk-8" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="u0Ot9i-omgIYrHehw8vl-64">
           <mxGeometry x="150" y="300" width="30" height="30" as="geometry" />
