@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T08:34:32.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WUc4_I3fReu0jiLsKDP1" version="22.1.12" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-12-27T08:36:40.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kFrL4-hDqKx7LvTT8fDi" version="22.1.12" type="github" pages="19">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1032" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -3476,7 +3476,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TydVv7X4gijLGIPylrDU" name="SOP QC - Incoming Material">
-    <mxGraphModel dx="2580" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1800" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
