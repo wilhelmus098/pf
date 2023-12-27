@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T04:09:18.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Bhgqbz7lY3uYkfd-2fhS" version="22.1.12" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-12-27T04:21:16.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WNmr3PU3u0E02U6mqASz" version="22.1.12" type="github" pages="16">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1032" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -3304,7 +3304,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OSdODtmThyW3U6I53R03" name="SOP R&amp;D New Product Launch (Biscuit)">
-    <mxGraphModel dx="1496" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="877" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3396,7 +3396,7 @@
         <mxCell id="HY_QXGwQ-m5tH7IowE0G-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.495;exitY=0.868;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="HY_QXGwQ-m5tH7IowE0G-7" source="HY_QXGwQ-m5tH7IowE0G-43" target="HY_QXGwQ-m5tH7IowE0G-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HY_QXGwQ-m5tH7IowE0G-43" value="Form trial" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="HY_QXGwQ-m5tH7IowE0G-7">
+        <mxCell id="HY_QXGwQ-m5tH7IowE0G-43" value="Form trial dan NPD OEM approval" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="HY_QXGwQ-m5tH7IowE0G-7">
           <mxGeometry x="40" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HY_QXGwQ-m5tH7IowE0G-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HY_QXGwQ-m5tH7IowE0G-7" source="HY_QXGwQ-m5tH7IowE0G-38" target="HY_QXGwQ-m5tH7IowE0G-43">
@@ -3412,8 +3412,14 @@
         <mxCell id="HY_QXGwQ-m5tH7IowE0G-46" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HY_QXGwQ-m5tH7IowE0G-7">
           <mxGeometry x="145" y="328" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HY_QXGwQ-m5tH7IowE0G-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.503;exitY=0.849;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="HY_QXGwQ-m5tH7IowE0G-7" source="HY_QXGwQ-m5tH7IowE0G-47" target="HY_QXGwQ-m5tH7IowE0G-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HY_QXGwQ-m5tH7IowE0G-47" value="Form NPD approval" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="HY_QXGwQ-m5tH7IowE0G-7">
           <mxGeometry x="40" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HY_QXGwQ-m5tH7IowE0G-57" value="Kirim sample, form NPD.OEM approval ke marketing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HY_QXGwQ-m5tH7IowE0G-7">
+          <mxGeometry x="40" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HY_QXGwQ-m5tH7IowE0G-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HY_QXGwQ-m5tH7IowE0G-4" target="HY_QXGwQ-m5tH7IowE0G-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3449,6 +3455,24 @@
         <mxCell id="HY_QXGwQ-m5tH7IowE0G-53" value="User" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="80" width="200" height="1080" as="geometry" />
         </mxCell>
+        <mxCell id="HY_QXGwQ-m5tH7IowE0G-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HY_QXGwQ-m5tH7IowE0G-57" target="HY_QXGwQ-m5tH7IowE0G-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="810" as="sourcePoint" />
+            <mxPoint x="120" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="850" />
+              <mxPoint x="300" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Bl7sisEBMHpZ_-0F7GGT" name="SOP AGRO R&amp;D - Reformulasi Existing Product">
+    <mxGraphModel dx="1272" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
