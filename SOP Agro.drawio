@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T10:31:27.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="O5s13rViUid_m-4lSpJ8" version="22.1.12" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-12-28T10:32:21.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bSuc3_Sq0eZCA4moP3oW" version="22.1.12" type="github" pages="19">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1032" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -4297,7 +4297,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TydVv7X4gijLGIPylrDU" name="SOP QC - Incoming Material">
-    <mxGraphModel dx="1876" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="529" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4424,10 +4424,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7TIadAzVUlAwiH6WoBZ2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7TIadAzVUlAwiH6WoBZ2-8" target="7TIadAzVUlAwiH6WoBZ2-21" edge="1">
+        <mxCell id="7TIadAzVUlAwiH6WoBZ2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7TIadAzVUlAwiH6WoBZ2-8" target="7TIadAzVUlAwiH6WoBZ2-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="1090" />
+              <mxPoint x="260" y="1020" />
+              <mxPoint x="465" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
