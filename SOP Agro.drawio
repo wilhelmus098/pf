@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T09:10:58.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5V3GCtSt3OiLt-B8Cj7b" version="22.1.15" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-12-28T09:30:55.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hzc-p9WQv4urNzum1m7c" version="22.1.15" type="github" pages="20">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1032" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -4581,7 +4581,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jQStd_NgF0xUppRxQkzm" name="SOP Sales - New Distributor">
-    <mxGraphModel dx="1588" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2293" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
