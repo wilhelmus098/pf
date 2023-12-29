@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T02:52:12.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="A118DmuFoqfoxopoXLQd" version="22.1.15" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-12-29T03:43:24.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_fs_ZTpWrrsPYgT_DBlW" version="22.1.15" type="github" pages="23">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -5089,6 +5089,72 @@
               <mxPoint x="1201" y="640" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FqWKolKFUZaCdDTJ8_2L" name="SOP Biscuit - Production">
+    <mxGraphModel dx="978" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-1" value="PPIC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="240" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROHu15jnnFJbg00FKMDQ-1" source="ROHu15jnnFJbg00FKMDQ-5" target="ROHu15jnnFJbg00FKMDQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-5" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ROHu15jnnFJbg00FKMDQ-1">
+          <mxGeometry x="60" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROHu15jnnFJbg00FKMDQ-1" source="ROHu15jnnFJbg00FKMDQ-6" target="ROHu15jnnFJbg00FKMDQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-6" value="Buat WO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ROHu15jnnFJbg00FKMDQ-1">
+          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-8" value="Dok WO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="ROHu15jnnFJbg00FKMDQ-1">
+          <mxGeometry x="60" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-2" value="Production" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="240" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-9" value="Dok WO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="ROHu15jnnFJbg00FKMDQ-2">
+          <mxGeometry x="60" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-3" value="Warehouse" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="240" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-4" value="Formulator" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="80" width="240" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ROHu15jnnFJbg00FKMDQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ROHu15jnnFJbg00FKMDQ-8" target="ROHu15jnnFJbg00FKMDQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="410" />
+              <mxPoint x="340" y="161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3tm7KuQMcpQ70eoRPHqe" name="SOP Sales - Claim Promo">
+    <mxGraphModel dx="765" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NOG5c29jgWkua0yNXQeM-1" value="Distributor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="200" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="NOG5c29jgWkua0yNXQeM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NOG5c29jgWkua0yNXQeM-1" source="NOG5c29jgWkua0yNXQeM-2" target="NOG5c29jgWkua0yNXQeM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NOG5c29jgWkua0yNXQeM-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="NOG5c29jgWkua0yNXQeM-1">
+          <mxGeometry x="40" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOG5c29jgWkua0yNXQeM-3" value="Menjalankan Promo Sesuai dengan IM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOG5c29jgWkua0yNXQeM-1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
