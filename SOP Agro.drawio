@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T06:32:43.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="d2OWTaDRU64R_0E3i-Rv" version="22.1.16" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-01-09T06:45:15.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FRY6sTpS-bhG1W3lbVjj" version="22.1.16" type="github" pages="28">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1257" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -3460,7 +3460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of SOP R&amp;D New Product Launch (Biscuit)" id="w11x-0MJZPg1mQvFXddo">
-    <mxGraphModel dx="1318" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="AAXoBb3Qrzturo83N2Ri-0" />
         <mxCell id="AAXoBb3Qrzturo83N2Ri-1" parent="AAXoBb3Qrzturo83N2Ri-0" />
@@ -3565,7 +3565,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AAXoBb3Qrzturo83N2Ri-32" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AAXoBb3Qrzturo83N2Ri-19" vertex="1">
+        <mxCell id="AAXoBb3Qrzturo83N2Ri-32" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AAXoBb3Qrzturo83N2Ri-19" vertex="1">
           <mxGeometry x="145" y="328" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AAXoBb3Qrzturo83N2Ri-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.503;exitY=0.849;exitDx=0;exitDy=0;exitPerimeter=0;" parent="AAXoBb3Qrzturo83N2Ri-19" source="AAXoBb3Qrzturo83N2Ri-34" target="AAXoBb3Qrzturo83N2Ri-35" edge="1">
@@ -3617,6 +3617,12 @@
         <mxCell id="hPi_AYuyPPCd_xicYXc--21" value="Approve ?" style="rhombus;whiteSpace=wrap;html=1;" parent="AAXoBb3Qrzturo83N2Ri-37" vertex="1">
           <mxGeometry x="50" y="520" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="R9zzqTK1oykSBy9eo7hD-0" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-37">
+          <mxGeometry x="100" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9zzqTK1oykSBy9eo7hD-2" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-37">
+          <mxGeometry x="20" y="330" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="AAXoBb3Qrzturo83N2Ri-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="AAXoBb3Qrzturo83N2Ri-1" source="AAXoBb3Qrzturo83N2Ri-35" target="AAXoBb3Qrzturo83N2Ri-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="810" as="sourcePoint" />
@@ -3648,14 +3654,8 @@
         <mxCell id="hPi_AYuyPPCd_xicYXc--15" value="Perhitungan Spek dan PM" style="rounded=0;whiteSpace=wrap;html=1;" parent="hPi_AYuyPPCd_xicYXc--13" vertex="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hPi_AYuyPPCd_xicYXc--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hPi_AYuyPPCd_xicYXc--13" source="hPi_AYuyPPCd_xicYXc--17" target="hPi_AYuyPPCd_xicYXc--18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hPi_AYuyPPCd_xicYXc--17" value="Kirim sample ke customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="hPi_AYuyPPCd_xicYXc--13" vertex="1">
           <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hPi_AYuyPPCd_xicYXc--18" value="Approve ?" style="rhombus;whiteSpace=wrap;html=1;" parent="hPi_AYuyPPCd_xicYXc--13" vertex="1">
-          <mxGeometry x="50" y="280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hPi_AYuyPPCd_xicYXc--23" value="Accounting" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="AAXoBb3Qrzturo83N2Ri-1" vertex="1">
           <mxGeometry x="880" y="80" width="200" height="1160" as="geometry" />
@@ -3772,7 +3772,7 @@
         <mxCell id="hPi_AYuyPPCd_xicYXc--59" value="Terima Draft Spec" style="rounded=0;whiteSpace=wrap;html=1;" parent="hPi_AYuyPPCd_xicYXc--52" vertex="1">
           <mxGeometry x="45" y="65" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hPi_AYuyPPCd_xicYXc--61" value="Approval draft ke user" style="rounded=0;whiteSpace=wrap;html=1;" parent="hPi_AYuyPPCd_xicYXc--52" vertex="1">
+        <mxCell id="hPi_AYuyPPCd_xicYXc--61" value="Komunikasi draft ke user" style="rounded=0;whiteSpace=wrap;html=1;" parent="hPi_AYuyPPCd_xicYXc--52" vertex="1">
           <mxGeometry x="45" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hPi_AYuyPPCd_xicYXc--74" value="Stamp dan Distribusi Dokumen" style="rounded=0;whiteSpace=wrap;html=1;" parent="hPi_AYuyPPCd_xicYXc--52" vertex="1">
@@ -3879,11 +3879,56 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="R9zzqTK1oykSBy9eo7hD-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AAXoBb3Qrzturo83N2Ri-1" source="hPi_AYuyPPCd_xicYXc--11" target="AAXoBb3Qrzturo83N2Ri-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="420" as="sourcePoint" />
+            <mxPoint x="90" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="410" />
+              <mxPoint x="490" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9zzqTK1oykSBy9eo7hD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AAXoBb3Qrzturo83N2Ri-1" source="hPi_AYuyPPCd_xicYXc--61" target="hPi_AYuyPPCd_xicYXc--65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="285" />
+              <mxPoint x="1460" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9zzqTK1oykSBy9eo7hD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AAXoBb3Qrzturo83N2Ri-1" source="hPi_AYuyPPCd_xicYXc--21" target="hPi_AYuyPPCd_xicYXc--15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="650" />
+              <mxPoint x="690" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9zzqTK1oykSBy9eo7hD-7" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-1">
+          <mxGeometry x="625" y="648" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9zzqTK1oykSBy9eo7hD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AAXoBb3Qrzturo83N2Ri-1" source="hPi_AYuyPPCd_xicYXc--21" target="hPi_AYuyPPCd_xicYXc--25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="700" />
+              <mxPoint x="890" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9zzqTK1oykSBy9eo7hD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AAXoBb3Qrzturo83N2Ri-1" source="hPi_AYuyPPCd_xicYXc--17" target="hPi_AYuyPPCd_xicYXc--11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="290" />
+              <mxPoint x="700" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="BH6lmrn07TApdP9drulF" name="SOP R&amp;D - Reformulasi Produksi">
-    <mxGraphModel dx="933" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
