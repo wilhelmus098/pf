@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T06:28:54.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tC2ygnzNADYDTN8ykOgQ" version="22.1.16" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-01-09T06:32:43.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="d2OWTaDRU64R_0E3i-Rv" version="22.1.16" type="github" pages="28">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1257" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -4321,8 +4321,8 @@
         <mxCell id="gyBoU9Eh4TZ5SxZrkhqz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gyBoU9Eh4TZ5SxZrkhqz-7" source="gyBoU9Eh4TZ5SxZrkhqz-25" target="gyBoU9Eh4TZ5SxZrkhqz-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gyBoU9Eh4TZ5SxZrkhqz-25" value="IA pemanasan RM untuk black box" style="rounded=0;whiteSpace=wrap;html=1;" parent="gyBoU9Eh4TZ5SxZrkhqz-7" vertex="1">
-          <mxGeometry x="39.75" y="897" width="121.5" height="50" as="geometry" />
+        <mxCell id="gyBoU9Eh4TZ5SxZrkhqz-25" value="IA(-) pemakaian RM untuk black box&lt;br&gt;IA(+) untuk premix hasil jadi" style="rounded=0;whiteSpace=wrap;html=1;" parent="gyBoU9Eh4TZ5SxZrkhqz-7" vertex="1">
+          <mxGeometry x="39.75" y="880" width="121.5" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gyBoU9Eh4TZ5SxZrkhqz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gyBoU9Eh4TZ5SxZrkhqz-7" source="gyBoU9Eh4TZ5SxZrkhqz-27" target="gyBoU9Eh4TZ5SxZrkhqz-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
