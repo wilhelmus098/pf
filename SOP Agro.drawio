@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T09:18:35.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YqVgsfibeA2T1D_UFVLY" version="22.1.16" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-01-10T09:18:46.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OEtLgTgRgm78YpnjR9XD" version="22.1.16" type="github" pages="28">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1257" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -3460,7 +3460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of SOP R&amp;D New Product Launch (Biscuit)" id="w11x-0MJZPg1mQvFXddo">
-    <mxGraphModel dx="4600" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="2800" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="AAXoBb3Qrzturo83N2Ri-0" />
         <mxCell id="AAXoBb3Qrzturo83N2Ri-1" parent="AAXoBb3Qrzturo83N2Ri-0" />
@@ -4048,42 +4048,6 @@
               <mxPoint x="1249" y="700" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AAXoBb3Qrzturo83N2Ri-1" source="HaAbVjOx-qV-K-L_wtj0-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-640" y="360.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-1" value="Material baru ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-1">
-          <mxGeometry x="-690" y="220" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-2" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-1">
-          <mxGeometry x="-640" y="320" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AAXoBb3Qrzturo83N2Ri-1" source="HaAbVjOx-qV-K-L_wtj0-4" target="HaAbVjOx-qV-K-L_wtj0-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-4" value="Input design" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-1">
-          <mxGeometry x="-700" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-6" value="Form trial dan NPD OEM approval" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-1">
-          <mxGeometry x="-700" y="460" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AAXoBb3Qrzturo83N2Ri-1" source="HaAbVjOx-qV-K-L_wtj0-1" target="HaAbVjOx-qV-K-L_wtj0-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520" y="330" as="sourcePoint" />
-            <mxPoint x="-470" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-560" y="270" />
-              <mxPoint x="-560" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-8" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-1">
-          <mxGeometry x="-595" y="268" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-11" value="Kirim sample, form NPD.OEM approval ke marketing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-1">
-          <mxGeometry x="-700" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HaAbVjOx-qV-K-L_wtj0-20" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-1">
           <mxGeometry x="485" y="478" width="30" height="30" as="geometry" />
