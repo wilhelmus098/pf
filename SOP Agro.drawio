@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T09:10:33.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wgGb7_MMOuJ7gqLJXuow" version="22.1.16" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-01-10T09:12:03.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OAk7fKT2W5_Eoyoasr8D" version="22.1.16" type="github" pages="28">
   <diagram id="Ndzk4cRHXx1tJSq1SwT6" name="SOP PPIC - Production Planning (General Flow)">
     <mxGraphModel dx="1257" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -3460,7 +3460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of SOP R&amp;D New Product Launch (Biscuit)" id="w11x-0MJZPg1mQvFXddo">
-    <mxGraphModel dx="2818" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="2630" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="AAXoBb3Qrzturo83N2Ri-0" />
         <mxCell id="AAXoBb3Qrzturo83N2Ri-1" parent="AAXoBb3Qrzturo83N2Ri-0" />
@@ -3648,7 +3648,7 @@
         <mxCell id="HaAbVjOx-qV-K-L_wtj0-35" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-19">
           <mxGeometry x="145" y="888" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaAbVjOx-qV-K-L_wtj0-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-19">
+        <mxCell id="HaAbVjOx-qV-K-L_wtj0-37" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="AAXoBb3Qrzturo83N2Ri-19">
           <mxGeometry x="75" y="1080" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AAXoBb3Qrzturo83N2Ri-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="AAXoBb3Qrzturo83N2Ri-1" source="AAXoBb3Qrzturo83N2Ri-7" target="AAXoBb3Qrzturo83N2Ri-21" edge="1">
@@ -3798,10 +3798,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hPi_AYuyPPCd_xicYXc--38" value="Membuat Internal Spek Production &amp;amp; Internal Spek PM" style="rounded=0;whiteSpace=wrap;html=1;" parent="hPi_AYuyPPCd_xicYXc--36" vertex="1">
-          <mxGeometry x="34" y="60" width="130" height="60" as="geometry" />
+          <mxGeometry x="35" y="100" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hPi_AYuyPPCd_xicYXc--51" value="Internal Spec NPD/OEM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="hPi_AYuyPPCd_xicYXc--36" vertex="1">
-          <mxGeometry x="41.5" y="180" width="115" height="70" as="geometry" />
+          <mxGeometry x="42.5" y="200" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hPi_AYuyPPCd_xicYXc--56" value="Kirim ke Document ke DC" style="rounded=0;whiteSpace=wrap;html=1;" parent="hPi_AYuyPPCd_xicYXc--36" vertex="1">
           <mxGeometry x="48.5" y="290" width="110" height="50" as="geometry" />
@@ -3841,7 +3841,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="14" y="920" />
-              <mxPoint x="14" y="90" />
+              <mxPoint x="14" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3860,11 +3860,17 @@
         <mxCell id="hPi_AYuyPPCd_xicYXc--102" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="hPi_AYuyPPCd_xicYXc--36" vertex="1">
           <mxGeometry x="110" y="950" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HaAbVjOx-qV-K-L_wtj0-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hPi_AYuyPPCd_xicYXc--36" source="HaAbVjOx-qV-K-L_wtj0-40" target="hPi_AYuyPPCd_xicYXc--38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaAbVjOx-qV-K-L_wtj0-40" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="hPi_AYuyPPCd_xicYXc--36">
+          <mxGeometry x="77.5" y="30" width="45" height="45" as="geometry" />
+        </mxCell>
         <mxCell id="hPi_AYuyPPCd_xicYXc--49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="AAXoBb3Qrzturo83N2Ri-1" source="hPi_AYuyPPCd_xicYXc--28" target="hPi_AYuyPPCd_xicYXc--38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1060" y="330" />
-              <mxPoint x="1060" y="170" />
+              <mxPoint x="1060" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3934,7 +3940,7 @@
               <mxPoint x="1500" y="290" />
               <mxPoint x="1500" y="230" />
               <mxPoint x="1260" y="230" />
-              <mxPoint x="1260" y="170" />
+              <mxPoint x="1260" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3980,7 +3986,7 @@
             <Array as="points">
               <mxPoint x="1565" y="1160" />
               <mxPoint x="1094" y="1160" />
-              <mxPoint x="1094" y="170" />
+              <mxPoint x="1094" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
