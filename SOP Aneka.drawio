@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T04:04:43.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-1r9jP2moFQ9MlHAm0Cs" version="22.1.17" type="github" pages="48">
+<mxfile host="app.diagrams.net" modified="2024-01-16T04:09:56.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BGMNkhtOa6XP5bI0olLX" version="22.1.17" type="github" pages="48">
   <diagram name="SOP Jurnal Transaksi Utama" id="u_JC-0qjYDzJXMqy9y9q">
     <mxGraphModel dx="1222" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -10909,7 +10909,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZrssEmUAxJNmEPhNR1ak" name="SOP AP - Kasbon">
-    <mxGraphModel dx="1969" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
