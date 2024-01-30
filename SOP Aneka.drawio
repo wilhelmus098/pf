@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T09:24:00.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tNDrVD2aEfEGjlORXPV0" version="22.1.21" type="github" pages="49">
+<mxfile host="app.diagrams.net" modified="2024-01-30T07:14:23.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="V_0M99vRo-zgpvmkmFAX" version="23.0.1" type="github" pages="50">
   <diagram name="SOP Jurnal Transaksi Utama" id="u_JC-0qjYDzJXMqy9y9q">
     <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -434,7 +434,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3u5Gu4bY9U3mbioOap5y" name="SOP Retur">
-    <mxGraphModel dx="2200" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2626,7 +2626,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8VGPzTlfkbrjnPvg7Lt2" name="SOP PPIC (MPS)">
-    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1500" background="none" math="0" shadow="1">
+    <mxGraphModel dx="2036" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1500" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3282,7 +3282,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-ETjReQzUJgdun7AluDs" name="SOP PPIC (MRP)">
-    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3630,7 +3630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vsZqK3PGGgo9-Sao5uHF" name="SOP PPIC(WO process)">
-    <mxGraphModel dx="933" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4796,7 +4796,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FnlafRbvrIs58BcsiKkt" name="SOP Export (Agreement)">
-    <mxGraphModel dx="1222" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5911,7 +5911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iPgy-Dd6sz8UDsDVyd6a" name="SOP Produksi (Serah Terima Material Manual)">
-    <mxGraphModel dx="1880" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="1867" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6518,7 +6518,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yu7pNqiQcWWclfgDyt-e" name="SOP ACCOUNTING (Pengakuan Aset)">
-    <mxGraphModel dx="880" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6695,7 +6695,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-5R2DBzMuB7rt1Yir9m_" name="SOP ACCOUNTING (Disposal)">
-    <mxGraphModel dx="880" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1800" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7005,7 +7005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W7BQUo9CK8SXRhYuMaTT" name="SOP Marketing (Penerimaan Order)">
-    <mxGraphModel dx="1222" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7392,7 +7392,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hipM7msdCq623UIeWbLA" name="SOP Warehouse (Inbound -&gt; RM)">
-    <mxGraphModel dx="1318" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7718,7 +7718,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NFDAxEAOb9cexvi5llYq" name="SOP Warehouse (Inventory)">
-    <mxGraphModel dx="1222" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7928,7 +7928,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6VJjdPQ_sflVcn24r3pb" name="SOP Warehouse (Outbound RM-&gt;produksi) WMS">
-    <mxGraphModel dx="1035" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8066,7 +8066,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZWq2v8uyfYL-T26_HY2P" name="SOP Warehouse (Outbound RM-&gt;Rekonsialiasi) Accurate">
-    <mxGraphModel dx="880" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8249,7 +8249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nHUoHucROvKleeXeY19J" name="SOP Warehouse  (Inbound -&gt; FG) ACCURATE">
-    <mxGraphModel dx="1222" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9187,7 +9187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wcVQZUI2wPx1aOSlmHLe" name="SOP Warehouse (Penerimaan Produk Kembalian) Retur">
-    <mxGraphModel dx="880" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9716,7 +9716,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T6Kvz_teAe81rPt2UyL9" name="SOP AGRO PRODUKSI DRM POWDER (Penerimaan bahan baku)">
-    <mxGraphModel dx="2036" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1400" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1400" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12279,6 +12279,91 @@
               <mxPoint x="980" y="1590" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ugqqF0HH1UX99FPU3C3l" name="SOP Produksi">
+    <mxGraphModel dx="1354" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-3" value="Preform" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="151" width="200" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7SXoGk67B3LhsP1NHPY9-3" source="7SXoGk67B3LhsP1NHPY9-1" target="7SXoGk67B3LhsP1NHPY9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-1" value="Granul - biji plastik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-3">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-2" value="Preform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-3">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-4" value="Mix" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="151" width="200" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7SXoGk67B3LhsP1NHPY9-4" source="7SXoGk67B3LhsP1NHPY9-5" target="7SXoGk67B3LhsP1NHPY9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-5" value="Blow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-4">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7SXoGk67B3LhsP1NHPY9-4" source="7SXoGk67B3LhsP1NHPY9-6" target="7SXoGk67B3LhsP1NHPY9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-6" value="Flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-4">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-7" value="Seal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-4">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-11" value="Hanger" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="151" width="200" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="7SXoGk67B3LhsP1NHPY9-11" source="7SXoGk67B3LhsP1NHPY9-12" target="7SXoGk67B3LhsP1NHPY9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-12" value="Granul - biji plastik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-11">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-13" value="Preform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-11">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-16" value="BOM 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="99" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-17" value="BOM 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="99" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-18" value="BOM 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="99" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7SXoGk67B3LhsP1NHPY9-19" target="7SXoGk67B3LhsP1NHPY9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-19" value="BOM 1 + BOM 2 + BOM 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="541" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7SXoGk67B3LhsP1NHPY9-2" target="7SXoGk67B3LhsP1NHPY9-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7SXoGk67B3LhsP1NHPY9-7" target="7SXoGk67B3LhsP1NHPY9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7SXoGk67B3LhsP1NHPY9-13" target="7SXoGk67B3LhsP1NHPY9-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-23" value="1 Batch FG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="641" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
