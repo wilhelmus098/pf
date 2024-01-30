@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T07:14:23.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="V_0M99vRo-zgpvmkmFAX" version="23.0.1" type="github" pages="50">
+<mxfile host="app.diagrams.net" modified="2024-01-30T07:26:46.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5aHqX9oST9FoJ39p2UHS" version="23.0.1" type="github" pages="50">
   <diagram name="SOP Jurnal Transaksi Utama" id="u_JC-0qjYDzJXMqy9y9q">
     <mxGraphModel dx="1120" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -12284,7 +12284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ugqqF0HH1UX99FPU3C3l" name="SOP Produksi">
-    <mxGraphModel dx="1354" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12312,7 +12312,7 @@
         <mxCell id="7SXoGk67B3LhsP1NHPY9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7SXoGk67B3LhsP1NHPY9-4" source="7SXoGk67B3LhsP1NHPY9-6" target="7SXoGk67B3LhsP1NHPY9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7SXoGk67B3LhsP1NHPY9-6" value="Flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-4">
+        <mxCell id="7SXoGk67B3LhsP1NHPY9-6" value="Fill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-4">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7SXoGk67B3LhsP1NHPY9-7" value="Seal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7SXoGk67B3LhsP1NHPY9-4">
